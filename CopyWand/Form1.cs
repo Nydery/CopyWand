@@ -149,7 +149,6 @@ namespace CopyWand
             info.RedirectStandardError = true;
 
             string result = "";
-            List<string> lines = new List<string>();
 
             using (var process = Process.Start(info))
             {
