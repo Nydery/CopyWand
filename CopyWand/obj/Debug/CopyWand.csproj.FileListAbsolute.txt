@@ -44,7 +44,6 @@ C:\Users\offic\Desktop\CopyWand\CopyWand\CopyWand\obj\Debug\CopyWand.pdb
 D:\Github\CopyWand\CopyWand\bin\Debug\CopyWand.exe.config
 D:\Github\CopyWand\CopyWand\bin\Debug\CopyWand.exe
 D:\Github\CopyWand\CopyWand\bin\Debug\CopyWand.pdb
-D:\Github\CopyWand\CopyWand\obj\Debug\CopyWand.csprojAssemblyReference.cache
 D:\Github\CopyWand\CopyWand\obj\Debug\CopyWand.Form1.resources
 D:\Github\CopyWand\CopyWand\obj\Debug\CopyWand.Properties.Resources.resources
 D:\Github\CopyWand\CopyWand\obj\Debug\CopyWand.csproj.GenerateResource.cache
