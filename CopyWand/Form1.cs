@@ -57,6 +57,9 @@ namespace CopyWand
                     }
 
                     label3.Text = "Snipping Mode: " + snippingMode.ToString();
+
+                    lblStatus.ForeColor = Color.Red;
+                    lblStatus.Text = "Auswählen";
                 }
                 else if (id == 2)
                 {
@@ -157,16 +160,29 @@ namespace CopyWand
             }
 
             //MessageBox.Show(result);
-            if (result != "")
+            if (result != "ERROR")
             {
-                this.Invoke((MethodInvoker)delegate
+                if (result != "")
                 {
-                    Clipboard.SetText(result);
-                });
+                    this.Invoke((MethodInvoker)delegate
+                    {
+                        Clipboard.SetText(result);
+                        lblStatus.ForeColor = Color.Green;
+                        lblStatus.Text = "Kopiert";
+                    });
+                }
+                else
+                {
+                    MessageBox.Show("Das Ergebnis ist leer.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
             else
             {
-                MessageBox.Show("Das Ergebnis ist leer.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                this.Invoke((MethodInvoker)delegate
+                {
+                    lblStatus.ForeColor = Color.Red;
+                    lblStatus.Text = "Error";
+                });
             }
             CheckForIllegalCrossThreadCalls = true;
         }
@@ -198,7 +214,7 @@ namespace CopyWand
             {
                 new Thread(() => CopyTextFromImageToClipboard(fileDialog.FileName)).Start();
 
-                MessageBox.Show("Die Erkennung ist beendet.", "Fertig", MessageBoxButtons.OK);
+                //MessageBox.Show("Die Erkennung ist beendet.", "Fertig", MessageBoxButtons.OK);
                 //ResultTextForm resultForm = new ResultTextForm(result);
             }
         }
@@ -213,6 +229,28 @@ namespace CopyWand
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             SetDefaultCursor();
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            snippingMode = !snippingMode;
+            if (snippingMode)
+            {
+                points = null;
+                default_cursor = Registry.GetValue(@"HKEY_CURRENT_USER\Control Panel\Cursors\", "Arrow", null).ToString();
+                //SetCrossArrow();
+            }
+            else
+            {
+                label5.Text = "";
+                label6.Text = "";
+                SetDefaultCursor();
+            }
+
+            label3.Text = "Snipping Mode: " + snippingMode.ToString();
+
+            lblStatus.ForeColor = Color.Red;
+            lblStatus.Text = "Auswählen";
         }
 
         private void LblDragBar_MouseMove(object sender, MouseEventArgs e)
