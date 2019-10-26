@@ -1,0 +1,43 @@
+D:\VisualStudioSelfMadeProgramme\CopyWand\CopyWand\obj\Debug\CopyWand.csprojAssemblyReference.cache
+D:\VisualStudioSelfMadeProgramme\CopyWand\CopyWand\obj\Debug\CopyWand.Form1.resources
+D:\VisualStudioSelfMadeProgramme\CopyWand\CopyWand\obj\Debug\CopyWand.Properties.Resources.resources
+D:\VisualStudioSelfMadeProgramme\CopyWand\CopyWand\obj\Debug\CopyWand.csproj.GenerateResource.cache
+D:\VisualStudioSelfMadeProgramme\CopyWand\CopyWand\obj\Debug\CopyWand.csproj.CoreCompileInputs.cache
+D:\VisualStudioSelfMadeProgramme\CopyWand\CopyWand\bin\Debug\CopyWand.exe.config
+D:\VisualStudioSelfMadeProgramme\CopyWand\CopyWand\bin\Debug\CopyWand.exe
+D:\VisualStudioSelfMadeProgramme\CopyWand\CopyWand\bin\Debug\CopyWand.pdb
+D:\VisualStudioSelfMadeProgramme\CopyWand\CopyWand\bin\Debug\IronOcr.dll
+D:\VisualStudioSelfMadeProgramme\CopyWand\CopyWand\bin\Debug\IronOcr.xml
+D:\VisualStudioSelfMadeProgramme\CopyWand\CopyWand\obj\Debug\CopyWand.csproj.CopyComplete
+D:\VisualStudioSelfMadeProgramme\CopyWand\CopyWand\obj\Debug\CopyWand.exe
+D:\VisualStudioSelfMadeProgramme\CopyWand\CopyWand\obj\Debug\CopyWand.pdb
+D:\VisualStudioSelfMadeProgramme\CopyWand\CopyWand\bin\Debug\IronOcr.German.dll
+D:\VisualStudioSelfMadeProgramme\CopyWand\CopyWand\bin\Debug\IronOcr.German.xml
+C:\Users\siegl\OneDrive\C# Proj\CopyWand\CopyWand\obj\Debug\CopyWand.csprojAssemblyReference.cache
+C:\Users\siegl\OneDrive\C# Proj\CopyWand\CopyWand\obj\Debug\CopyWand.Form1.resources
+C:\Users\siegl\OneDrive\C# Proj\CopyWand\CopyWand\obj\Debug\CopyWand.Properties.Resources.resources
+C:\Users\siegl\OneDrive\C# Proj\CopyWand\CopyWand\obj\Debug\CopyWand.csproj.GenerateResource.cache
+C:\Users\siegl\OneDrive\C# Proj\CopyWand\CopyWand\obj\Debug\CopyWand.exe
+C:\Users\siegl\OneDrive\C# Proj\CopyWand\CopyWand\obj\Debug\CopyWand.pdb
+C:\Users\siegl\OneDrive\C# Proj\CopyWand\CopyWand\bin\Debug\CopyWand.exe.config
+C:\Users\siegl\OneDrive\C# Proj\CopyWand\CopyWand\bin\Debug\CopyWand.exe
+C:\Users\siegl\OneDrive\C# Proj\CopyWand\CopyWand\bin\Debug\CopyWand.pdb
+C:\Users\siegl\OneDrive\C# Proj\CopyWand\CopyWand\bin\Debug\IronOcr.dll
+C:\Users\siegl\OneDrive\C# Proj\CopyWand\CopyWand\bin\Debug\IronOcr.German.dll
+C:\Users\siegl\OneDrive\C# Proj\CopyWand\CopyWand\bin\Debug\IronOcr.xml
+C:\Users\siegl\OneDrive\C# Proj\CopyWand\CopyWand\bin\Debug\IronOcr.German.xml
+C:\Users\siegl\OneDrive\C# Proj\CopyWand\CopyWand\obj\Debug\CopyWand.csproj.CopyComplete
+C:\Users\offic\Desktop\CopyWand\CopyWand\CopyWand\bin\Debug\CopyWand.exe.config
+C:\Users\offic\Desktop\CopyWand\CopyWand\CopyWand\bin\Debug\CopyWand.exe
+C:\Users\offic\Desktop\CopyWand\CopyWand\CopyWand\bin\Debug\CopyWand.pdb
+C:\Users\offic\Desktop\CopyWand\CopyWand\CopyWand\bin\Debug\IronOcr.dll
+C:\Users\offic\Desktop\CopyWand\CopyWand\CopyWand\bin\Debug\IronOcr.German.dll
+C:\Users\offic\Desktop\CopyWand\CopyWand\CopyWand\bin\Debug\IronOcr.xml
+C:\Users\offic\Desktop\CopyWand\CopyWand\CopyWand\bin\Debug\IronOcr.German.xml
+C:\Users\offic\Desktop\CopyWand\CopyWand\CopyWand\obj\Debug\CopyWand.csprojAssemblyReference.cache
+C:\Users\offic\Desktop\CopyWand\CopyWand\CopyWand\obj\Debug\CopyWand.Form1.resources
+C:\Users\offic\Desktop\CopyWand\CopyWand\CopyWand\obj\Debug\CopyWand.Properties.Resources.resources
+C:\Users\offic\Desktop\CopyWand\CopyWand\CopyWand\obj\Debug\CopyWand.csproj.GenerateResource.cache
+C:\Users\offic\Desktop\CopyWand\CopyWand\CopyWand\obj\Debug\CopyWand.csproj.CopyComplete
+C:\Users\offic\Desktop\CopyWand\CopyWand\CopyWand\obj\Debug\CopyWand.exe
+C:\Users\offic\Desktop\CopyWand\CopyWand\CopyWand\obj\Debug\CopyWand.pdb
